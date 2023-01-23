@@ -1,0 +1,69 @@
+body{
+    padding: 20px;
+}
+#full{
+    background-color: aliceblue;
+}
+#first{
+    background-color: aqua;
+    text-align: center;
+    padding: 30px;
+}
+#second{
+    text-align: center;
+}
+.menu{
+    display: flex;
+    gap:1em;
+    font-size: 18px;
+
+}
+h1{
+    font-size: 2em;
+}
+#firstbutton{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 3px;
+    background-color: white;
+}
+#below{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+
+
+.card{
+    box-shadow: 4px;
+    padding: 2px;
+}
+.container{
+    padding: 2px;
+    max-width: 300px;
+    text-align: left;
+}
+.allcard{
+    display: flex;
+    padding: 20px;
+}
+
+nav{
+    background-color: aliceblue;
+    color: black;
+    padding: 20px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.button{
+    border-color: skyblue;
+    border-radius: 3px;
+}
+
+footer{
+    text-align: left;
+    padding-left: 10px;
+}
